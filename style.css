@@ -1,0 +1,14 @@
+body{
+   background-color: brown;
+   color: beige;
+}
+
+form lab{
+    font-weight: bold;
+    color: white;
+
+}
+form input{
+    border: 2px solid blue;
+    background-color: tomato;
+}
